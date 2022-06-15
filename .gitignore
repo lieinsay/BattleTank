@@ -1,0 +1,9 @@
+Binaries/
+.idea/
+.vs/
+*.sln
+Build/
+Intermediate/
+Saved/
+Plugins/
+DerivedDataCache/
