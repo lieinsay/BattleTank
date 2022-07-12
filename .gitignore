@@ -8,3 +8,8 @@ Saved/
 Plugins/
 DerivedDataCache/
 package/
+Content/_Levels/BattleGround_BuiltData.uasset
+Content/_Levels/MainMenu_BuiltData.uasset
+Content/_Levels/NewWorld.umap
+Content/_Levels/SpringTestBed_BuiltData.uasset
+Content/Blueprints/BattleTankGameMode_BP.uasset
